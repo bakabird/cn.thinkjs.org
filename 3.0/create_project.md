@@ -74,9 +74,4 @@ $ npm start;
 | | |--- index.js
 |--- view  //模板目录
 | |--- index_index.html
-|--- www
-| |--- static  //静态资源目录
-| | |--- css
-| | |--- img
-| | |--- js
 ```
